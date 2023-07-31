@@ -1,6 +1,8 @@
 # Data Visualisation with R - Inflation Increase comparison analytics
  Vissualisation with R to gain insights on the increase in inflation in Ireland in comparison to 8 other countries (and one of the group of nations).
 
+To see the visuals, please refer `22222806_Assignment 1.pdf` file. For Code, refer `Assignment 1.Rmd` file
+
 # University of Galway
 ## CT5100 - Data Visualisation
 
