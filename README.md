@@ -25,7 +25,7 @@ Based on that, create a visualisation in R:
 2. Implement the bar plot using the ggplot2 library.
 3. Discuss your approach and whether the dot or bar approach is more effective in communicating the information required to support your article. (half page required).
 
-## Inference
+## 2. Inference
 A dot plot compares various measures over a single line in the X-axis, while a bar plot provides different bars over
 X-axis for each measure. Technically, in this case, dot plot looks less cluttered as the data points are not closer to each other,
 but if a cluttered data comes along the way, it would be better to approach them with the bar plot. The current charts only show
@@ -48,6 +48,6 @@ understand and interpret in both the plots, but coming down to the crux of the m
 either GBR or USA or the whole X-axis.
 
 
-## Conclusion: 
+## 3. Conclusion: 
 Thus, a bar chart is the preferred method of visualization in this case over the dot plot due to its efficient
 comparability and easy data readability even for a non-technical human being.
