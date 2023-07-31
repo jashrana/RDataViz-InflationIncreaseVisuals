@@ -1,0 +1,4 @@
+"0","cpi_data <- read.csv(""Counsumer_Price_Index.csv"")"
+"0",""
+"0","#Ref: https://www.geeksforgeeks.org/delete-rows-with-empty-cells-from-excel-using-r/"
+"0","cpi_data <- cpi_data[!apply(is.na(cpi_data) | cpi_data == """", 1, all),]"
